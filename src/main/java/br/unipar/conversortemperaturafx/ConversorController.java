@@ -3,7 +3,7 @@ package br.unipar.conversortemperaturafx;
 import javafx.fxml.FXML;
 import javafx.scene.control.Label;
 
-public class HelloController {
+public class ConversorController {
     @FXML
     private Label welcomeText;
 

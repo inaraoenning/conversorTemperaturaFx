@@ -61,7 +61,7 @@
                         <id>default-cli</id>
                         <configuration>
                             <mainClass>
-                                br.unipar.conversortemperaturafx/br.unipar.conversortemperaturafx.HelloApplication
+                                br.unipar.conversortemperaturafx/br.unipar.conversortemperaturafx.ConversorApplication
                             </mainClass>
                             <launcher>app</launcher>
                             <jlinkZipName>app</jlinkZipName>
